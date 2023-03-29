@@ -1,0 +1,3 @@
+# tealcrm
+
+Projecto em desenvolvimento.
